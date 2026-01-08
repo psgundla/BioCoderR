@@ -80,6 +80,7 @@ I’m currently a PhD student in the **Kocakavuk Lab** working on **Computationa
 
 ## 📝 Selected Publications / Preprints
 
+- [278P Genetic subtype prediction in diffuse gliomas with a vision transformer-based model] (https://doi.org/10.1016/j.esmorw.2025.100474) - *ESMO RWD, 2025*
 - [Tumor-initiating genetics and therapy drive divergent molecular evolution in IDH-mutant gliomas ](https://www.biorxiv.org/content/10.1101/2025.07.11.664189v1) - *medRxiv, 2025*
 
 
