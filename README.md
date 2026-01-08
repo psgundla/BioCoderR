@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&font=comfortaa&color=016EEA&size=24&lines=I'm+Pranav;Applied AI Researcher;Web+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&font=comfortaa&color=016EEA&size=24&lines=I%27m+Pranav;Applied%20AI%20Researcher;Web+Developer" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@ I’m currently a PhD student in the **Kocakavuk Lab** working on **Computationa
 
 ## 🌐 Portfolio & Contact
 
-- ✨ Portfolio: [BioCodeR.io](https://psgundla.com/)
+- ✨ Portfolio: [psgundla.com](https://psgundla.com/)
 - 📫 Reach me:  <a href="mailto:contact@psgundla.com"><img alt="Outlook-Mail" align="center" width="60" height="30" src="assets/outlook.jpg" /></a>
 
 ---
@@ -74,7 +74,7 @@ I’m currently a PhD student in the **Kocakavuk Lab** working on **Computationa
 
 - **[TRIDENT](https://github.com/mahmoodlab/TRIDENT)**  - A comprehensive toolbox for the whole slide images projects with deep learning
 
-- **[CellViT++: Vision Transformers for Spatial Omics](https://github.com/BioCoderR/CellViT-Plus)** - Adaptive nuclei segmentation for WSIs 
+- **[CellViT++: Vision Transformers for Spatial Omics](https://github.com/psgundla/CellViT-Plus)** - Adaptive nuclei segmentation for WSIs 
 
 ---
 
