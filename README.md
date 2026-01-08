@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&font=comfortaa&color=016EEA&size=24&lines=I'm+BioCoderR;Bioinformatician;Researcher;Web+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&font=comfortaa&color=016EEA&size=24&lines=I'm+Pranav;Applied AI Researcher;Web+Developer" />
   </a>
 </p>
 
@@ -37,8 +37,8 @@ I’m currently a PhD student in the **Kocakavuk Lab** working on **Computationa
 
 ## 🌐 Portfolio & Contact
 
-- ✨ Portfolio: [BioCodeR.io](https://biocoderr.github.io/)
-- 📫 Reach me:  <a href="mailto:pranavswaroop.gundla@uk-essen.de"><img alt="Outlook-Mail" align="center" width="60" height="30" src="assets/outlook.jpg" /></a>
+- ✨ Portfolio: [BioCodeR.io](https://psgundla.com/)
+- 📫 Reach me:  <a href="mailto:contact@psgundla.com"><img alt="Outlook-Mail" align="center" width="60" height="30" src="assets/outlook.jpg" /></a>
 
 ---
 
@@ -88,7 +88,7 @@ I’m currently a PhD student in the **Kocakavuk Lab** working on **Computationa
 
 ## 📚 Currently Reading
 
-- [CellViT++: Vision Transformers for Spatial Omics](https://github.com/BioCoderR/CellViT-Plus)
+- [CellViT++: Vision Transformers for Spatial Omics](https://github.com/psgundla/CellViT-Plus)
 
 ---
 
@@ -100,18 +100,10 @@ I’m currently a PhD student in the **Kocakavuk Lab** working on **Computationa
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psgundla&theme=default&hide_border=true" />
-</p>
-
----
-
 ## 🎖 Digital Badges
 
 <p>
- <img align="left" alt="Python for Data Science and AI" src="https://github.com/BioCoderR/BioCoderR/blob/master/python-for-data-science-and-ai.png" />
+ <img align="left" alt="Python for Data Science and AI" src="https://github.com/psgundla/psgundla/blob/master/python-for-data-science-and-ai.png" />
 </p>
 
 <br/>
@@ -124,7 +116,7 @@ I’m currently a PhD student in the **Kocakavuk Lab** working on **Computationa
 ---
 
 <p align="center">
-  <a href="https://github.com/BioCoderR?tab=repositories">
+  <a href="https://github.com/psgundla?tab=repositories">
     <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" />
   </a>
 </p>
