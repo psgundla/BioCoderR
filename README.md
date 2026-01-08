@@ -95,15 +95,15 @@ I’m currently a PhD student in the **Kocakavuk Lab** working on **Computationa
 ## 🎧 Music & Life
 
 - Listen to music for **~9 hours/day** (lofi + classical while debugging!)  
-- Travel enthusiast — recently in 🇳🇱, 🇫🇷, and 🇩🇪  
-- Enjoy organizing research socials & mentoring junior researchers  
+- Travel enthusiast — recently in 🇩🇪 🇳🇱 🇮🇳 🇭🇺 🇸🇮 🇫🇷 🇮🇹 
+- Enjoys cafe hopping, organizing socials & mentoring 
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BioCoderR&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psgundla&theme=default&hide_border=true" />
 </p>
 
 ---
